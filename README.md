@@ -1,4 +1,4 @@
-# python-flask--personal-expense-tracker
+# python-flask--personal-expense-trackers
 personal expense tracker using flask
 ## How to Run the Application
 
